@@ -16,8 +16,7 @@ Create hangman game
 how to make game work
 
   [*]make word randomiser in an array
-  [ ]if loop for picking number of players
-  [ ]add boolean expression for number of names needed (true === 1 name || false === 2 names)
+  [*]loop for picking number of players and adding names
   [ ]make intro with if loop (if true === welcome one player || false === welcome 2 players)
   [ ]make game show array with underscores === to lenght of secret name
   [ ]player input iterates trough array and looks for true value on comparison (if === then)
