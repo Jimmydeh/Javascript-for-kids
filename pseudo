@@ -17,7 +17,7 @@ how to make game work
 
   [*]make word randomiser in an array
   [*]loop for picking number of players and adding names
-  [ ]make intro with if loop (if true === welcome one player || false === welcome 2 players)
+  [*]make intro with if loop (if true === welcome one player || false === welcome 2 players)
   [ ]make game show array with underscores === to lenght of secret name
   [ ]player input iterates trough array and looks for true value on comparison (if === then)
   [ ]if equal, so if true. replace guessed letter with underscore of that position.
