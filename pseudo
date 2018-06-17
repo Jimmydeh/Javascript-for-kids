@@ -21,10 +21,11 @@ how to make game work
   [ ]make game show array with underscores === to lenght of secret name
   [ ]player input iterates trough array and looks for true value on comparison (if === then)
   [ ]if equal, so if true. replace guessed letter with underscore of that position.
-  [ ]if !==, so false. add a point to the player. If >= to 11 is true game over and other player is decleared winner. 
+  [*]if !==, so false. add a point to the player. If >= to 11 is true game over and other player is decleared winner. 
   if false go on or switch players (depending on nr of players) 
   if player guessed correct check for completion of the word, if true player wins. if false player my go again.
-  [ ]if game over OR game wins === true prompt (win/lose has different promp) comment and return to intro
+  [*]if game over OR game wins === true prompt (win/lose has different promp) comment and 
+  [ ]return to intro
   
   
  
